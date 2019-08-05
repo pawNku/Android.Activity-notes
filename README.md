@@ -1,5 +1,5 @@
 # Android.Activity-notes
-Android四大组件之Activity的一些理解和整理。结合了入门的‘’第一行代码‘’和进阶的‘’Android开发艺术探索‘’两本书和一个实例Demo~
+Android四大组件之Activity的一些理解和整理。结合入门的‘’第一行代码‘’和进阶的‘’Android开发艺术探索‘’两本书和一个实例Demo~
 
 ## 开发艺术探索之Activity
 > 该部分主要是个人对开发艺术探索此部分的一些整理和笔记主要包括：
